@@ -207,3 +207,5 @@ print(g)
 ```
 
 ![](PA1_template_files/figure-html/plotting-weekday-1.png)<!-- -->
+
+As you can see in this plot, the steps seem to be more evenly distributed on the weekend towards the middle of the day whereas dring the week that same period is lower probably due to work or school obligations.
